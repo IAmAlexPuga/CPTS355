@@ -1,1 +1,1 @@
-# CPTS355
+# CPTS355Learning Haskell Fundementals
