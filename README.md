@@ -1,1 +1,2 @@
-# CPTS355Learning Haskell Fundementals
+# CPTS355
+Tetris game
